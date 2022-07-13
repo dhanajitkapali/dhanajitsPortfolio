@@ -1,5 +1,5 @@
 import React from "react";
-import "./portfolio.css";
+import "./portfolioSelf.css";
 import IMG1 from "../../assets/img-portfolio1.png";
 import IMG2 from "../../assets/img-portfolio2.png";
 import IMG3 from "../../assets/img-portfolio3.png";
@@ -55,7 +55,7 @@ const portfolioSelfData = [
 
 const PortfolioSelf = () => {
   return (
-    <section id="portfolio">
+    <section id="portfolioSelf">
       <h5 className="text-light">Recent Work</h5>
       <h2 className="text-light">Side Projects</h2>
       <div className="container portfolio__container">

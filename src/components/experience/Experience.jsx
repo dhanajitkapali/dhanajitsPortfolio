@@ -73,13 +73,13 @@ const Experience = () => {
               </div>
               <progress value="70" max="100"></progress>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <div>
                 <BsFillCheckCircleFill className="experience__details-icon" />
                 <h5>RxSwift</h5>
               </div>
               <progress value="70" max="100"></progress>
-            </article>
+            </article> */}
           </div>
         </div>
 

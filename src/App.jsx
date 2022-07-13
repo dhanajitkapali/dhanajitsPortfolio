@@ -11,6 +11,7 @@ import PortfolioSelf from "./components/portfolioSelf/PortfolioSelf";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import Spacer from "./components/Spacer/Spacer";
 
 const App = () => {
   return (
@@ -22,8 +23,10 @@ const App = () => {
       {/* <Services /> */}
       {/* <Portfolio /> */}
       <PortfolioClient />
+      <Spacer />
       <PortfolioSelf />
       {/* <Testimonials /> */}
+      <Spacer />
       <Contact />
       <Footer />
     </div>
