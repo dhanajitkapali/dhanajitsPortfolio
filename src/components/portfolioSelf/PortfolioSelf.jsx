@@ -75,14 +75,14 @@ const PortfolioSelf = () => {
                 >
                   Github
                 </a>
-                <a
+                {/* <a
                   href={demo}
                   className="btn btn-primary"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Site
-                </a>
+                </a> */}
               </div>
             </article>
           );
