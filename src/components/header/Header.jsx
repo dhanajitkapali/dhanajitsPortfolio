@@ -9,25 +9,17 @@ export default function Header() {
   return (
     <header>
       <div className="container header__container">
-        <h5 className="text-light">Olá, meu nome é </h5>
+        <h5 className="text-light">Hello my name is </h5>
         <h1 className="text-light">Dhanajit Kapali</h1>{" "}
         <h3 className="mono text-light">
           <Typical
             loop={Infinity}
             steps={[
-              "Criação, Dev. e Hospedagem de Sites 🌐",
+              "Passionate Software Developer 💻",
               1000,
-              "Front-End Dev. 💻",
+              "iOS developer 💻",
               1000,
-              "Projetos, UX|UI Design 🎨",
-              1000,
-              "EAD & Design Instrucional 👨‍🏫",
-              1000,
-              "SEO & Otimização de Wordpress 🔎",
-              1000,
-              "Estratégias Digitais 🎯",
-              1000,
-              "Mountainbike 🚴‍♂️",
+              "React Native Developer 👨‍🏫",
               1000,
             ]}
           />
