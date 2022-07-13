@@ -20,7 +20,8 @@
 }
 
 .portfolio__item-image {
-  border-radius: 1.5rem;
+  height: 50%;
+  border-radius: 5%;
   overflow: hidden;
   background: var(--color-bg-variant);
   opacity: 0.7;
