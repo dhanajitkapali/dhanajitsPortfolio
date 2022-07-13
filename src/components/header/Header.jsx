@@ -15,7 +15,7 @@ export default function Header() {
           <Typical
             loop={Infinity}
             steps={[
-              "Passionate Software Developer 💻",
+              "Passionate Software Developer From India 💻",
               1000,
               "iOS developer 💻",
               1000,

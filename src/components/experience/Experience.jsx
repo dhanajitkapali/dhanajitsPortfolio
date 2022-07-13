@@ -181,7 +181,7 @@ const Experience = () => {
             <article className="experience__details">
               <div>
                 <BsFillCheckCircleFill className="experience__details-icon" />
-                <h5>Design Patterns</h5>
+                <h5>Design Patt.</h5>
               </div>
               <progress value="80" max="100"></progress>
             </article>
@@ -189,6 +189,13 @@ const Experience = () => {
               <div>
                 <BsFillCheckCircleFill className="experience__details-icon" />
                 <h5>Architecture</h5>
+              </div>
+              <progress value="80" max="100"></progress>
+            </article>
+            <article className="experience__details">
+              <div>
+                <BsFillCheckCircleFill className="experience__details-icon" />
+                <h5>RxSwift</h5>
               </div>
               <progress value="80" max="100"></progress>
             </article>

@@ -6,6 +6,7 @@ import { BsLinkedin } from "react-icons/bs";
 import { BsTwitter } from "react-icons/bs";
 import { BsYoutube } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
+import { SiLeetcode } from "react-icons/si";
 
 const SocialIcons = (props) => {
   return (
@@ -24,6 +25,14 @@ const SocialIcons = (props) => {
         rel="noopener noreferrer"
       >
         <BsGithub />
+      </a>
+
+      <a
+        href="https://leetcode.com/dhanajit_kapali/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <SiLeetcode />
       </a>
 
       <a
