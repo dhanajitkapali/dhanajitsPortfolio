@@ -1,10 +1,11 @@
 import React from "react";
 import "./portfolioSelf.css";
-import IMG1 from "../../assets/img-portfolio1.png";
-import IMG2 from "../../assets/img-portfolio2.png";
-import IMG3 from "../../assets/img-portfolio3.png";
-import IMG4 from "../../assets/img-portfolio4.png";
-import IMG5 from "../../assets/img-portfolio5.png";
+import IMG1 from "../../assets/portfolioSelf/spotifyPresentation.png";
+import IMG2 from "../../assets/portfolioSelf/tikTokPresentation.png";
+import IMG3 from "../../assets/portfolioSelf/tinderPresentation.png";
+import IMG4 from "../../assets/portfolioSelf/vaxVisionPresentation.png";
+import IMG5 from "../../assets/portfolioSelf/uberClonePresentation.png";
+
 import IMG6 from "../../assets/img-portfolio6.png";
 
 // Data Array para preenhcer o portfolio
@@ -12,45 +13,46 @@ const portfolioSelfData = [
   {
     id: 1,
     image: IMG1,
-    title: "Be Exclusive Gym - Wordpress Design e SEO",
-    github: "https://github.com",
+    title: "Spotify App - Clone of the official Spotify app",
+    github: "https://github.com/iosSwiftProjectsByDhanajitKapali/Spotify",
     demo: "https://beexclusivegym.com.br",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Embeleze Gama - Site & Identidade Visual",
-    github: "https://github.com",
+    title: "TikTok App - Clone of the official TikTok app",
+    github: "https://github.com/iosSwiftProjectsByDhanajitKapali/TikTokClone",
     demo: "https://embelezegama.com.br",
   },
   {
     id: 3,
     image: IMG3,
-    title: "SEOxperts - Site & Identidade Visual ",
-    github: "https://github.com",
+    title: "Tinder App - Clone of the official Tinder app ",
+    github:
+      "https://github.com/reactNativeProjectsByDhanajitKapali/TinderClone",
     demo: "https://seoxperts.com.br",
   },
   {
     id: 4,
     image: IMG4,
-    title: "instituto Modal - Wordpress Design e SEO",
-    github: "https://github.com",
+    title: "VaxVision - App to check vaccine slots",
+    github: "https://github.com/iosSwiftProjectsByDhanajitKapali/Vax-Vision",
     demo: "https://modal.org.br",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Mansão Cristal - Wordpress Design",
-    github: "https://github.com",
+    title: "Uber Clone - Cloneo of Uber App",
+    github: "https://github.com/reactNativeProjectsByDhanajitKapali/Uber-clone",
     demo: "https://mansaocristal.com.br",
   },
-  {
-    id: 6,
-    image: IMG6,
-    title: "Microtecnica - Wordpress Design e SEO",
-    github: "https://github.com",
-    demo: "https://microtecnica.com.br",
-  },
+  // {
+  //   id: 6,
+  //   image: IMG6,
+  //   title: "Microtecnica - Wordpress Design e SEO",
+  //   github: "https://github.com",
+  //   demo: "https://microtecnica.com.br",
+  // },
 ];
 
 const PortfolioSelf = () => {
