@@ -7,8 +7,6 @@ import IMG3 from "../../assets/portfolioClient/img3.png";
 import IMG4 from "../../assets/portfolioClient/img4.png";
 import IMG5 from "../../assets/portfolioClient/img5.png";
 
-import IMG6 from "../../assets/img-portfolio6.png";
-
 // Data Array para preenhcer o portfolio
 const portfolioClientData = [
   {

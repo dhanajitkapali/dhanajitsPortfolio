@@ -6,8 +6,6 @@ import IMG3 from "../../assets/portfolioSelf/tinderPresentation.png";
 import IMG4 from "../../assets/portfolioSelf/vaxVisionPresentation.png";
 import IMG5 from "../../assets/portfolioSelf/uberClonePresentation.png";
 
-import IMG6 from "../../assets/img-portfolio6.png";
-
 // Data Array para preenhcer o portfolio
 const portfolioSelfData = [
   {
@@ -42,7 +40,7 @@ const portfolioSelfData = [
   {
     id: 5,
     image: IMG5,
-    title: "Uber Clone - Cloneo of Uber App",
+    title: "Uber Clone - Clone of Uber App",
     github: "https://github.com/reactNativeProjectsByDhanajitKapali/Uber-clone",
     demo: "https://mansaocristal.com.br",
   },
