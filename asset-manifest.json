@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dhanajitsPortfolio/static/css/main.cdc1b9e5.css",
-    "main.js": "/dhanajitsPortfolio/static/js/main.59f4b32c.js",
-    "static/media/tikTokPresentation.jpg": "/dhanajitsPortfolio/static/media/tikTokPresentation.77aae6c31d4eb3cf26b3.jpg",
-    "static/media/spotifyPresentation.jpg": "/dhanajitsPortfolio/static/media/spotifyPresentation.e97f833dfe0035ce2a85.jpg",
-    "static/media/uberClonePresentation.jpg": "/dhanajitsPortfolio/static/media/uberClonePresentation.b0f089babd02a58a2395.jpg",
-    "static/media/vaxVisionPresentation.jpg": "/dhanajitsPortfolio/static/media/vaxVisionPresentation.e75c31b51d6d8935139d.jpg",
-    "static/media/tinderPresentation.jpg": "/dhanajitsPortfolio/static/media/tinderPresentation.e076cc520dd12d1b2ccb.jpg",
+    "main.js": "/dhanajitsPortfolio/static/js/main.df040ac6.js",
     "static/media/dhanajitKapaliMemoji.jpg": "/dhanajitsPortfolio/static/media/dhanajitKapaliMemoji.d1b264d9ec66ae0605f5.jpg",
+    "static/media/vaxVisionPresentation.jpg": "/dhanajitsPortfolio/static/media/vaxVisionPresentation.75da4aae359a18801679.jpg",
+    "static/media/tikTokPresentation.jpg": "/dhanajitsPortfolio/static/media/tikTokPresentation.2b48ea40fba4091f0bdd.jpg",
+    "static/media/uberClonePresentation.jpg": "/dhanajitsPortfolio/static/media/uberClonePresentation.92c173321e416ed23db0.jpg",
+    "static/media/spotifyPresentation.jpg": "/dhanajitsPortfolio/static/media/spotifyPresentation.b9fb61dbc7af8872e13c.jpg",
+    "static/media/tinderPresentation.jpg": "/dhanajitsPortfolio/static/media/tinderPresentation.c07a159137c105cba596.jpg",
     "static/media/me.webp": "/dhanajitsPortfolio/static/media/me.2209c5b564dfecf55fd0.webp",
     "static/media/img4.png": "/dhanajitsPortfolio/static/media/img4.5fd8bc2d92c7e9b31f1c.png",
     "static/media/img3.png": "/dhanajitsPortfolio/static/media/img3.7c2eba4a9e063ceb2f11.png",
@@ -16,10 +16,10 @@
     "static/media/img2.png": "/dhanajitsPortfolio/static/media/img2.74e1c98348f1af547d49.png",
     "index.html": "/dhanajitsPortfolio/index.html",
     "main.cdc1b9e5.css.map": "/dhanajitsPortfolio/static/css/main.cdc1b9e5.css.map",
-    "main.59f4b32c.js.map": "/dhanajitsPortfolio/static/js/main.59f4b32c.js.map"
+    "main.df040ac6.js.map": "/dhanajitsPortfolio/static/js/main.df040ac6.js.map"
   },
   "entrypoints": [
     "static/css/main.cdc1b9e5.css",
-    "static/js/main.59f4b32c.js"
+    "static/js/main.df040ac6.js"
   ]
 }
