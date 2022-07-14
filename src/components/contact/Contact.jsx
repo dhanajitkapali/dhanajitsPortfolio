@@ -15,18 +15,20 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_k21tg8s",
-      "template_8aq38hi",
+      "service_l507bhx",
+      "template_1y0regg",
       form.current,
-      "5SzJoWUkRHKf1tpY1"
+      "2Cp6nqbAZHqq_6VAW"
     );
-    setMsg("Mensagem Enviada! Obrigado.");
-    e.target.reset();
-    // .then((result) => {
-    //     console.log(result.text);
-    // }, (error) => {
-    //     console.log(error.text);
-    // });
+    setMsg("Message Sent! Thanks.");
+    e.target.reset().then(
+      (result) => {
+        console.log(result.text);
+      },
+      (error) => {
+        console.log(error.text);
+      }
+    );
   };
 
   return (
@@ -61,6 +63,12 @@ const Contact = () => {
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
+          <input
+            type="text"
+            name="subject"
+            placeholder="Enter Subject"
+            required
+          />
           <input type="text" name="name" placeholder="Your name" required />
           <input type="email" name="email" placeholder="Your e-mail" required />
           <textarea
