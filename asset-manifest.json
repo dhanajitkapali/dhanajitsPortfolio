@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/dhanajitsPortfolio/static/css/main.365fa41f.css",
-    "main.js": "/dhanajitsPortfolio/static/js/main.747749c2.js",
+    "main.css": "/dhanajitsPortfolio/static/css/main.df987e17.css",
+    "main.js": "/dhanajitsPortfolio/static/js/main.f9128d35.js",
     "static/media/img-portfolio5.png": "/dhanajitsPortfolio/static/media/img-portfolio5.778c98862efe80fd359c.png",
     "static/media/img-portfolio2.png": "/dhanajitsPortfolio/static/media/img-portfolio2.d25f97e6464548b4fa36.png",
     "static/media/img-portfolio6.png": "/dhanajitsPortfolio/static/media/img-portfolio6.2617ce9dbe75b28c7f90.png",
     "static/media/img-portfolio1.png": "/dhanajitsPortfolio/static/media/img-portfolio1.26eda507e4670185f370.png",
     "static/media/img-portfolio3.png": "/dhanajitsPortfolio/static/media/img-portfolio3.efe69570341ac8d0fbfa.png",
+    "static/media/dhanajitKapaliMemoji.jpg": "/dhanajitsPortfolio/static/media/dhanajitKapaliMemoji.d1b264d9ec66ae0605f5.jpg",
     "static/media/img-portfolio4.png": "/dhanajitsPortfolio/static/media/img-portfolio4.8e057d41fc8fa3ef3ee8.png",
     "static/media/me.webp": "/dhanajitsPortfolio/static/media/me.2209c5b564dfecf55fd0.webp",
-    "static/media/andre-tavares-about.webp": "/dhanajitsPortfolio/static/media/andre-tavares-about.93239c182b5ec9fee4ab.webp",
+    "static/media/img4.png": "/dhanajitsPortfolio/static/media/img4.5fd8bc2d92c7e9b31f1c.png",
+    "static/media/img3.png": "/dhanajitsPortfolio/static/media/img3.7c2eba4a9e063ceb2f11.png",
+    "static/media/img5.png": "/dhanajitsPortfolio/static/media/img5.e59d64d364554a77a841.png",
+    "static/media/img1.png": "/dhanajitsPortfolio/static/media/img1.53c916d5304a09b7ae5c.png",
+    "static/media/img2.png": "/dhanajitsPortfolio/static/media/img2.74e1c98348f1af547d49.png",
     "index.html": "/dhanajitsPortfolio/index.html",
-    "main.365fa41f.css.map": "/dhanajitsPortfolio/static/css/main.365fa41f.css.map",
-    "main.747749c2.js.map": "/dhanajitsPortfolio/static/js/main.747749c2.js.map"
+    "main.df987e17.css.map": "/dhanajitsPortfolio/static/css/main.df987e17.css.map",
+    "main.f9128d35.js.map": "/dhanajitsPortfolio/static/js/main.f9128d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.365fa41f.css",
-    "static/js/main.747749c2.js"
+    "static/css/main.df987e17.css",
+    "static/js/main.f9128d35.js"
   ]
 }
