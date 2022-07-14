@@ -1,7 +1,12 @@
 {
   "files": {
-    "main.css": "/dhanajitsPortfolio/static/css/main.df987e17.css",
-    "main.js": "/dhanajitsPortfolio/static/js/main.f9128d35.js",
+    "main.css": "/dhanajitsPortfolio/static/css/main.5f48aee6.css",
+    "main.js": "/dhanajitsPortfolio/static/js/main.4af8010b.js",
+    "static/media/tikTokPresentation.png": "/dhanajitsPortfolio/static/media/tikTokPresentation.370f4a4cb4be1b536d80.png",
+    "static/media/spotifyPresentation.png": "/dhanajitsPortfolio/static/media/spotifyPresentation.85e87f72ee6e16ffd6da.png",
+    "static/media/uberClonePresentation.png": "/dhanajitsPortfolio/static/media/uberClonePresentation.19da30c11aa71d8e3749.png",
+    "static/media/tinderPresentation.png": "/dhanajitsPortfolio/static/media/tinderPresentation.5bbba73137d3e7822dc3.png",
+    "static/media/vaxVisionPresentation.png": "/dhanajitsPortfolio/static/media/vaxVisionPresentation.109b8750267c95a85dfd.png",
     "static/media/img-portfolio5.png": "/dhanajitsPortfolio/static/media/img-portfolio5.778c98862efe80fd359c.png",
     "static/media/img-portfolio2.png": "/dhanajitsPortfolio/static/media/img-portfolio2.d25f97e6464548b4fa36.png",
     "static/media/img-portfolio6.png": "/dhanajitsPortfolio/static/media/img-portfolio6.2617ce9dbe75b28c7f90.png",
@@ -16,11 +21,11 @@
     "static/media/img1.png": "/dhanajitsPortfolio/static/media/img1.53c916d5304a09b7ae5c.png",
     "static/media/img2.png": "/dhanajitsPortfolio/static/media/img2.74e1c98348f1af547d49.png",
     "index.html": "/dhanajitsPortfolio/index.html",
-    "main.df987e17.css.map": "/dhanajitsPortfolio/static/css/main.df987e17.css.map",
-    "main.f9128d35.js.map": "/dhanajitsPortfolio/static/js/main.f9128d35.js.map"
+    "main.5f48aee6.css.map": "/dhanajitsPortfolio/static/css/main.5f48aee6.css.map",
+    "main.4af8010b.js.map": "/dhanajitsPortfolio/static/js/main.4af8010b.js.map"
   },
   "entrypoints": [
-    "static/css/main.df987e17.css",
-    "static/js/main.f9128d35.js"
+    "static/css/main.5f48aee6.css",
+    "static/js/main.4af8010b.js"
   ]
 }
