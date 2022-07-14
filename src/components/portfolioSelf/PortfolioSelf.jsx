@@ -1,10 +1,10 @@
 import React from "react";
 import "./portfolioSelf.css";
-import IMG1 from "../../assets/portfolioSelf/spotifyPresentation.png";
-import IMG2 from "../../assets/portfolioSelf/tikTokPresentation.png";
-import IMG3 from "../../assets/portfolioSelf/tinderPresentation.png";
-import IMG4 from "../../assets/portfolioSelf/vaxVisionPresentation.png";
-import IMG5 from "../../assets/portfolioSelf/uberClonePresentation.png";
+import IMG1 from "../../assets/portfolioSelf/spotifyPresentation.jpg";
+import IMG2 from "../../assets/portfolioSelf/tikTokPresentation.jpg";
+import IMG3 from "../../assets/portfolioSelf/tinderPresentation.jpg";
+import IMG4 from "../../assets/portfolioSelf/vaxVisionPresentation.jpg";
+import IMG5 from "../../assets/portfolioSelf/uberClonePresentation.jpg";
 
 // Data Array para preenhcer o portfolio
 const portfolioSelfData = [
